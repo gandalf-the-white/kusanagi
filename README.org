@@ -1,0 +1,10 @@
+#+title: Kusanagi
+
+* Introduction
+** Overview
+[[images/KUSANAGI-2025-08-01-0900.png]]
+** Objective
+Just a service chaining composed of
++ Frontend
++ Proxy
++ Backend

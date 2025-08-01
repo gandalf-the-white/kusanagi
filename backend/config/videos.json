@@ -1,0 +1,14 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Cycle",
+      "url": "http://192.188.30.55/hls/Cycles_Demoreel_2015/playlist.m3u8"
+    },
+    {
+      "id": "2",
+      "title": "Steel",
+      "url": "http://192.188.30.55/hls/tears_of_steel_1080p/playlist.m3u8"
+    }
+  ]
+}
